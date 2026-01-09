@@ -28,6 +28,7 @@ class UserSeeder extends Seeder
                 ['username' => $user['username']],
                 $user
             );
+            
         }
     }
 }
